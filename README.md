@@ -1,5 +1,7 @@
 # Schwabble
 
+Edit dev.exs to connect to your empty database. Once the server is started and you visit localhost:4000 you can run the DB migrations from there. 
+
 To start your Phoenix server:
 
 * Run `mix setup` to install and setup dependencies
